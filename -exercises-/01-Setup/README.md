@@ -1,6 +1,6 @@
 # Exercise 01: Access the SAP Cloud Platform account and clone sample code
 
-## Estimated time
+## Estimated time  ss
 
 10 minutes
 
